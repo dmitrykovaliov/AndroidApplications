@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OK >></string>
+    <string name="ok_text">Ok!</string>
+    <string name="check_text">Check!</string>
+    <string name="next_button">\>\></string>
+    <string name="enter_text">Enter</string>
+</resources>
